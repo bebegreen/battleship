@@ -13,7 +13,7 @@
     "express": "~4.15.2",
     "express-session": "^1.15.5",
     "jade": "~1.11.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "morgan": "~1.8.1",
     "mysql": "^2.14.1",
     "nstall": "^0.2.0",
